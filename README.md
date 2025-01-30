@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=bautimarinellis-gh&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bautimarinellis-gh)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=bautimarinellis-gh&theme=material-palenight)](https://github.com/bautimarinellis-gh)
+</div>
 
 <hr>
 <p align="center">
