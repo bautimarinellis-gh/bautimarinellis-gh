@@ -9,7 +9,6 @@
 - :computer: I have experience with `Python` and enjoy working on diverse projects.
 - :student: I’m currently expanding my knowledge in `Software Engineering`, `Databases`, and `Web Development`.
 - :nerd_face: Always `learning new things` and improving my skills.
-- :thinking: I’m currently looking for my first `job opportunity` to gain experience in the tech industry.
 - :speech_balloon: Feel free to reach out and connect! 🚀
 
 <h4> Languages </h4>
