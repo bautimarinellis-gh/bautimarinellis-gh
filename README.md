@@ -3,13 +3,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `4th-year` student of `Systems Engineering` at [Universidad Abierta Interamericana (UAI)](https://www.uai.edu.ar/).
-- :mortar_board: I have an intermediate degree as `Systems Analyst`.
-- :technologist: I enjoy developing `desktop` and `web applications` using `.NET`, `Entity Framework`, `SQL`, `HTML`, `CSS`, and `JavaScript`.
-- :computer: I have experience with `Python` and enjoy working on diverse projects.
-- :student: I’m currently expanding my knowledge in `Software Engineering`, `Databases`, and `Web Development`.
-- :nerd_face: Always `learning new things` and improving my skills.
-- :speech_balloon: Feel free to reach out and connect! 🚀
+
 
 <h4> Languages </h4>
 <span> 
